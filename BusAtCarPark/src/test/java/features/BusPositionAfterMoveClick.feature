@@ -11,31 +11,13 @@ Feature: BusPositionAfterMove
       |xAxis  |yAxis  |face   |
       |3      |	3     |	east  |
       |1      |	1     |	west  |
-      |0      |	0     |	north |
-      |0      |	0     |	north |
-      |0      |	4     |	north |
       |0      |	0     |	south |
       |0      |	4     |	south |
-      |0      |	0     |	east  |
-      |0      |	4     |	east  |
-      |0      |	0     |	west  |
-      |0      |	4     |	west  |
       |1      |	1     |	north |
       |2      |	2     |	south |
       |3      |	3     |	east  |
       |1      |	1     |	west  |
-      |4      |	0     |	north |
-      |4      |	4     |	north |
-      |0      |	0     |	north |
-      |0      |	4     |	north |
-      |0      |	0     |	south |
-      |0      |	4     |	south |
-      |0      |	0     |	east  |
-      |0      |	4     |	east  |
-      |0      |	0     |	west  |
-      |0      |	4     |	west  |
-      |4      |	0     |	north |
-      |4      |	4     |	north |
+
 
 
 

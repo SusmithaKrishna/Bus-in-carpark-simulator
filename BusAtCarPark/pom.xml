@@ -7,6 +7,7 @@
     <groupId>CarPark</groupId>
     <artifactId>BusAtCarPark</artifactId>
     <version>1.0-SNAPSHOT</version>
+
     <dependencies>
         <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-java -->
         <dependency>
